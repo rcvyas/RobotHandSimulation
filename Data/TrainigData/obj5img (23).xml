@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TrainigData</folder>
+	<filename>obj5img (23).png</filename>
+	<path>C:\Users\vidya.madderla\Desktop\Project 2\Data\TrainigData\obj5img (23).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v249b387_109</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>184</ymin>
+			<xmax>369</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

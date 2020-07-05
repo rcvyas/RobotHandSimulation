@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TrainigData</folder>
+	<filename>multiimg (41).png</filename>
+	<path>C:\Users\vidya.madderla\Desktop\Project 2\Data\TrainigData\multiimg (41).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v249b387_106</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>122</ymin>
+			<xmax>371</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>v249b387_105</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>142</ymin>
+			<xmax>488</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>
